@@ -13,7 +13,7 @@
             height: 100%;
             width: 100%;
             background-color: #1d539d;
-            color: white;
+            color: yellow;
             padding-top: 6%;
             box-sizing: border-box;
             overflow-y: auto;
@@ -68,12 +68,12 @@
         }
 		
 		.step-text a {
-            color: white;
+            color: yellow;
 			text-decoration: none;
         }
 		
 		.step-text a:hover {
-            color: white;
+            color: yellow;
 			text-decoration:underline;
         }
 
